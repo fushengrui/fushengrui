@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Shengrui&#39;s Blog</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-06-27T18:29:30.081Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>傅晟瑞</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>欢迎来到我的博客哦~~</title>
+    <link href="http://yoursite.com/2017/06/25/hello-world/"/>
+    <id>http://yoursite.com/2017/06/25/hello-world/</id>
+    <published>2017-06-25T14:33:28.000Z</published>
+    <updated>2017-06-27T18:29:30.081Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://i.imgur.com/Uoeoec7.png" alt=""></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://i.imgur.com/Uoeoec7.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Steps to Build Your Own Blog</title>
+    <link href="http://yoursite.com/2017/06/24/Steps-to-Build-Your-Own-Blog/"/>
+    <id>http://yoursite.com/2017/06/24/Steps-to-Build-Your-Own-Blog/</id>
+    <published>2017-06-24T14:33:28.000Z</published>
+    <updated>2017-06-25T21:34:51.959Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="A-下载所需语言软件："><a href="#A-下载所需语言软件：" class="headerlink" title="A.下载所需语言软件："></a>A.下载所需语言软件：</h2><pre><code>1. Git. https://git-scm.com/
+2. Cmder. http://cmder.net/
+3. Node.js https://nodejs.org/zh-cn/
+4. Sublime Text 3. https://www.sublimetext.com/3
+5. Markdown Pad 2. http://markdownpad.com/
+6. 如果某些网站需要翻墙才能进入，请下载GreenVPN，官方网站：http://www.greenjsq.me 
+</code></pre><a id="more"></a>
+<h2 id="B-登陆GitHub网页进行注册和建库"><a href="#B-登陆GitHub网页进行注册和建库" class="headerlink" title="B.登陆GitHub网页进行注册和建库"></a>B.登陆GitHub网页进行注册和建库</h2><pre><code>1. 通过邮箱注册账户名(username)，谨慎填写用户名
+2. 登陆你的账号后，点击头像，选择your profile
+3. 点击Repositories, 然后右上角选择Create a new Repositiories，然后填写自己的博客域名，格式一般为：your name.github.io (yourname必须和注册用户名一致）
+4. 注册和建库结束
+</code></pre><h2 id="C-建立Blog所需环境-注意程序命令之间的x空格）"><a href="#C-建立Blog所需环境-注意程序命令之间的x空格）" class="headerlink" title="C. 建立Blog所需环境(注意程序命令之间的x空格）"></a>C. 建立Blog所需环境(注意程序命令之间的x空格）</h2><pre><code>1. 通过菜单栏找到Git Bash并打开，然后输入以下指令：
+
+       git config --global user.name &quot;过程B注册Github用户名&quot;
+       git config --global user.email &quot;注册使用的邮箱地址&quot;
+
+      *例子：
+       git config --global user.name &quot;fushengrui&quot;
+       git config --global user.email &quot;fus1@mcmaster.ca&quot;
+
+
+2. 在电脑桌面(建议)或者任意系统盘建立一个文件并命名为： Blog 所需环境
+
+
+
+3.  打开Cmder 按顺序输入以下指令：
+
+              cd Desktop\blog所需环境
+              npm install -g hexo-cli
+              hexo init
+              hexo g
+              hexo server -p 4008
+     (Important to Know: 首先，cd 后跟上一步骤建立文件夹的位置，为了方便，建议把文件建立在桌面就可以直接复制粘贴该命令; 其次,  -p 后的数字为任意四位数字）
+
+
+4. 当hexo server -p 4008运行成功，命令框会提示进入“localhost: 4008&quot;进行网页博客预览。如果失败，重新输入该指令并替换“4008”为其他任意四位数字
+</code></pre><h2 id="D-建立密匙"><a href="#D-建立密匙" class="headerlink" title="D. 建立密匙"></a>D. 建立密匙</h2><pre><code>1. 打开Git Bash输入以下指令：
+
+     ssh-key gen -t rsa -C &quot;GitHub注册使用的邮箱”
+
+2. 一般情况下，输入完该指令后，命令框会提示你为这个密匙文件夹进行命名，直接输入任意文件名即可；
+3. 根据命令框提示密匙所在位置找到该文件；
+4. 用Sumblime Text打开该文件，并复制文件中的内容；
+5. 打开“github.com/settings/keys&quot;网站，登陆你的GitHub账号，选择增加新的SSH Key；
+6. 然后粘贴已复制的内容，并提交。
+</code></pre><h2 id="E-配置博客"><a href="#E-配置博客" class="headerlink" title="E.配置博客"></a>E.配置博客</h2><pre><code>1. 在你文件夹“blog所需环境”中找到另一个名为“blog”的文件夹；
+2. 进入blog文件夹找到名为“_config.yml&quot;的文件；
+3. 用Sublime 打开该文件夹找到如下内容并编辑：
+
+
+ deploy: 
+     type: git
+     repo: https://github.com/Github用户名/用户名.github.io.git
+     branch: master
+
+    (Important：如果没有repo或者branch这一栏直接打字输入就好。铭记：deploy:, type:, repo:, branch: 后必须要先打一个空格在进行输入)
+
+
+4. 找到并继续修改其它重要信息（记得每个冒号后加空格）
+
+    title: 输入和修改博客网页显示的博客名
+    subtitle: 副标题
+    description: 网站描述
+    author：作者名
+    language：zh-Hans
+    timezone: Asia/Shanghai
+
+
+5. 保存，退出
+</code></pre><h2 id="F-正式域名生产和后续更新博客内容所需步骤"><a href="#F-正式域名生产和后续更新博客内容所需步骤" class="headerlink" title="F.正式域名生产和后续更新博客内容所需步骤"></a>F.正式域名生产和后续更新博客内容所需步骤</h2><pre><code>1. 打开 Git CMD
+2. 按顺序输入以下指令：
+
+       npm install hexo-deployer-git --save
+       hexo clean
+       hexo g
+       hexo s -p 4008
+
+3. 先打开localhost: 4008网页进行预览，如果效果符合你的预期,键盘按 “Ctrl+C&quot;
+4. 在命令框输入以下指令：
+
+       n
+       hexo d 
+
+5. 这个时候会弹出一个窗口登陆你的GitHub账户和用户名，域名生成。以后就可以直接在网页输入“xxx.github.io”登陆你的博客啦
+</code></pre><h2 id="G-如何调整博客背景页面的主题？"><a href="#G-如何调整博客背景页面的主题？" class="headerlink" title="G.如何调整博客背景页面的主题？"></a>G.如何调整博客背景页面的主题？</h2><pre><code>1. 打开网页&quot;http://hexo.io/themes/”并点击选择你喜欢的背景主题
+
+2. 点击后会弹出另一个网页窗口，然后点击绿色按钮“clone or download&quot;，然后点击“download ZIP”
+
+   3. 点开该压缩文件并解压文件到之前建立的“blog所需环境”=&gt;&quot;blog” =&gt; &quot;themes&quot;
+
+   4. 再次打开文件夹&quot;blog&quot; 的“_config.yml&quot;找到“theme”栏
+
+   5. 在theme栏后编辑你刚下载的“主题的名字”即“下载的文件夹名”，然后保存，记得冒号后加空格；
+
+6. 执行步骤F，更新博客即可。
+</code></pre><p><div id="hypercomments_widget"></div></p>
+<p><script type="text/javascript"><br>_hcwp = window._hcwp || [];<br>_hcwp.push({widget:”Stream”, widget_id: 92589});<br>(function() {<br>if(“HC_LOAD_INIT” in window)return;<br>HC_LOAD_INIT = true;<br>var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage || “en”).substr(0, 2).toLowerCase();<br>var hcc = document.createElement(“script”); hcc.type = “text/javascript”; hcc.async = true;<br>hcc.src = (“https:” == document.location.protocol ? “https” : “http”)+”://w.hypercomments.com/widget/hc/92589/“+lang+”/widget.js”;<br>var s = document.getElementsByTagName(“script”)[0];<br>s.parentNode.insertBefore(hcc, s.nextSibling);<br>})();<br></script><br><a href="http://hypercomments.com" class="hc-link" title="comments widget" target="_blank" rel="external">comments powered by HyperComments</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;A-下载所需语言软件：&quot;&gt;&lt;a href=&quot;#A-下载所需语言软件：&quot; class=&quot;headerlink&quot; title=&quot;A.下载所需语言软件：&quot;&gt;&lt;/a&gt;A.下载所需语言软件：&lt;/h2&gt;&lt;pre&gt;&lt;code&gt;1. Git. https://git-scm.com/
+2. Cmder. http://cmder.net/
+3. Node.js https://nodejs.org/zh-cn/
+4. Sublime Text 3. https://www.sublimetext.com/3
+5. Markdown Pad 2. http://markdownpad.com/
+6. 如果某些网站需要翻墙才能进入，请下载GreenVPN，官方网站：http://www.greenjsq.me 
+&lt;/code&gt;&lt;/pre&gt;
+    
+    </summary>
+    
+      <category term="Blog" scheme="http://yoursite.com/categories/Blog/"/>
+    
+    
+      <category term="Blog搭建" scheme="http://yoursite.com/tags/Blog%E6%90%AD%E5%BB%BA/"/>
+    
+  </entry>
+  
+</feed>
