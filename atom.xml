@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-07-02T05:13:18.843Z</updated>
+  <updated>2017-07-02T18:32:06.606Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Machine Learning</title>
+    <link href="http://yoursite.com/2017/07/02/machine-learning/"/>
+    <id>http://yoursite.com/2017/07/02/machine-learning/</id>
+    <published>2017-07-02T05:34:22.000Z</published>
+    <updated>2017-07-02T18:32:06.606Z</updated>
+    
+    <content type="html"><![CDATA[<iframe src="https://drive.google.com/file/d/0B5Pa6-qFLBYVb3Vid1RWRzgyTzg/preview" width="650" height="500"></iframe>]]></content>
+    
+    <summary type="html">
+    
+      &lt;iframe src=&quot;https://drive.google.com/file/d/0B5Pa6-qFLBYVb3Vid1RWRzgyTzg/preview&quot; width=&quot;650&quot; height=&quot;500&quot;&gt;&lt;/iframe&gt;
+    
+    </summary>
+    
+      <category term="CS" scheme="http://yoursite.com/categories/CS/"/>
+    
+    
+      <category term="Python" scheme="http://yoursite.com/tags/Python/"/>
+    
+  </entry>
   
   <entry>
     <title> </title>
