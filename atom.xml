@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-07-02T05:13:18.843Z</updated>
+  <updated>2017-07-02T10:46:40.825Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,9 +16,27 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title></title>
+    <link href="http://yoursite.com/google3e4a41e615b6dd89/2017/07/02/"/>
+    <id>http://yoursite.com/google3e4a41e615b6dd89/2017/07/02/</id>
+    <published>2017-07-02T10:46:39.848Z</published>
+    <updated>2017-07-02T10:46:40.825Z</updated>
+    
+    <content type="html"><![CDATA[google-site-verification: google3e4a41e615b6dd89.html]]></content>
+    
+    <summary type="html">
+    
+      google-site-verification: google3e4a41e615b6dd89.html
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title> </title>
-    <link href="http://yoursite.com/2017/06/25/hello-world/"/>
-    <id>http://yoursite.com/2017/06/25/hello-world/</id>
+    <link href="http://yoursite.com/hello-world/2017/06/25/"/>
+    <id>http://yoursite.com/hello-world/2017/06/25/</id>
     <published>2017-06-25T14:33:28.000Z</published>
     <updated>2017-07-02T05:13:18.843Z</updated>
     
@@ -37,8 +55,8 @@
   
   <entry>
     <title>Steps to Build Your Own Blog</title>
-    <link href="http://yoursite.com/2017/06/24/Steps-to-Build-Your-Own-Blog/"/>
-    <id>http://yoursite.com/2017/06/24/Steps-to-Build-Your-Own-Blog/</id>
+    <link href="http://yoursite.com/Steps-to-Build-Your-Own-Blog/2017/06/24/"/>
+    <id>http://yoursite.com/Steps-to-Build-Your-Own-Blog/2017/06/24/</id>
     <published>2017-06-24T14:33:28.000Z</published>
     <updated>2017-07-02T06:08:34.136Z</updated>
     
