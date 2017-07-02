@@ -36,11 +36,11 @@
   </entry>
   
   <entry>
-    <title>Steps to Build Your Own Blog</title>
+    <title>如何高效搭建自己的博客</title>
     <link href="http://yoursite.com/2017/06/24/Steps-to-Build-Your-Own-Blog/"/>
     <id>http://yoursite.com/2017/06/24/Steps-to-Build-Your-Own-Blog/</id>
     <published>2017-06-24T14:33:28.000Z</published>
-    <updated>2017-07-02T06:08:34.136Z</updated>
+    <updated>2017-07-02T15:55:54.377Z</updated>
     
     <content type="html"><![CDATA[<h2 id="A-下载所需语言软件："><a href="#A-下载所需语言软件：" class="headerlink" title="A.下载所需语言软件："></a>A.下载所需语言软件：</h2><pre><code>1. Git. https://git-scm.com/
 2. Cmder. http://cmder.net/
@@ -78,7 +78,7 @@
 
 
 4. 当hexo server -p 4008运行成功，命令框会提示进入“localhost: 4008&quot;进行网页博客预览。如果失败，重新输入该指令并替换“4008”为其他任意四位数字
-</code></pre><h2 id="D-建立密匙"><a href="#D-建立密匙" class="headerlink" title="D. 建立密匙"></a>D. 建立密匙</h2><pre><code>1. 打开Git Bash输入以下指令：
+</code></pre><h2 id="D-建立SSH密匙"><a href="#D-建立SSH密匙" class="headerlink" title="D. 建立SSH密匙"></a>D. 建立SSH密匙</h2><pre><code>1. 打开Git Bash输入以下指令：
 
      ssh-key gen -t rsa -C &quot;GitHub注册使用的邮箱”
 
