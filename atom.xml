@@ -168,24 +168,4 @@
     
   </entry>
   
-  <entry>
-    <title> </title>
-    <link href="http://yoursite.com/2017/05/31/hello-world/"/>
-    <id>http://yoursite.com/2017/05/31/hello-world/</id>
-    <published>2017-05-31T12:00:00.000Z</published>
-    <updated>2017-07-03T22:21:00.336Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="http://i.imgur.com/Uoeoec7.png" alt=""></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;http://i.imgur.com/Uoeoec7.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
-  
 </feed>
