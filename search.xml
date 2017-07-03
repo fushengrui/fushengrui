@@ -3,9 +3,12 @@
   
     
     <entry>
-      <title><![CDATA[Machine Learning]]></title>
+      <title><![CDATA[机器学习]]></title>
       <url>/2017/07/02/machine-learning/</url>
-      <content type="html"><![CDATA[<iframe src="https://drive.google.com/file/d/0B5Pa6-qFLBYVb3Vid1RWRzgyTzg/preview" width="600" height="450"></iframe>]]></content>
+      <content type="html"><![CDATA[<iframe src="https://drive.google.com/file/d/0B5Pa6-qFLBYVb3Vid1RWRzgyTzg/preview" width="600" height="450"></iframe>
+
+
+]]></content>
       
         <categories>
             
@@ -19,15 +22,6 @@
             <tag> Python </tag>
             
         </tags>
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[ ]]></title>
-      <url>/2017/06/25/hello-world/</url>
-      <content type="html"><![CDATA[<p><img src="http://i.imgur.com/Uoeoec7.png" alt=""></p>
-]]></content>
-      
         
     </entry>
     
@@ -145,6 +139,15 @@
             <tag> Blog搭建 </tag>
             
         </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[ ]]></title>
+      <url>/2017/05/31/hello-world/</url>
+      <content type="html"><![CDATA[<p><img src="http://i.imgur.com/Uoeoec7.png" alt=""></p>
+]]></content>
+      
         
     </entry>
     
