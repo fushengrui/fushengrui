@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-07-04T14:22:14.049Z</updated>
+  <updated>2017-07-04T14:52:34.731Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,19 +20,21 @@
     <link href="http://yoursite.com/2017/07/02/machine-learning/"/>
     <id>http://yoursite.com/2017/07/02/machine-learning/</id>
     <published>2017-07-02T05:34:22.000Z</published>
-    <updated>2017-07-04T14:22:14.049Z</updated>
+    <updated>2017-07-04T14:52:34.731Z</updated>
     
     <content type="html"><![CDATA[<iframe src="https://drive.google.com/file/d/0B5Pa6-qFLBYVb3Vid1RWRzgyTzg/preview" width="600" height="450"></iframe>
 
 
-<embed src="http://www.docin.com/DocinViewer-1964851670-144.swf" width="650" height="490" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always">]]></content>
+
+]]></content>
     
     <summary type="html">
     
       &lt;iframe src=&quot;https://drive.google.com/file/d/0B5Pa6-qFLBYVb3Vid1RWRzgyTzg/preview&quot; width=&quot;600&quot; height=&quot;450&quot;&gt;&lt;/iframe&gt;
 
 
-&lt;embed src=&quot;http://w
+
+
     
     </summary>
     
