@@ -178,15 +178,17 @@
     <link href="http://fushengrui.github.io/2017/06/24/Steps-to-Build-Your-Own-Blog/"/>
     <id>http://fushengrui.github.io/2017/06/24/Steps-to-Build-Your-Own-Blog/</id>
     <published>2017-06-24T14:33:28.000Z</published>
-    <updated>2017-07-02T15:55:54.377Z</updated>
+    <updated>2017-08-21T22:07:54.928Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="A-下载所需语言软件："><a href="#A-下载所需语言软件：" class="headerlink" title="A.下载所需语言软件："></a>A.下载所需语言软件：</h2><pre><code>1. Git. https://git-scm.com/
-2. Cmder. http://cmder.net/
-3. Node.js https://nodejs.org/zh-cn/
-4. Sublime Text 3. https://www.sublimetext.com/3
-5. Markdown Pad 2. http://markdownpad.com/
-6. 如果某些网站需要翻墙才能进入，请下载GreenVPN，官方网站：http://www.greenjsq.me 
-</code></pre><a id="more"></a>
+    <content type="html"><![CDATA[<h2 id="A-下载所需语言软件："><a href="#A-下载所需语言软件：" class="headerlink" title="A.下载所需语言软件："></a>A.下载所需语言软件：</h2><ol>
+<li>Git.   <a id="download" href="https://git-scm.com/" target="_blank" rel="external"><i class="fa fa-download"></i><span> Download Now</span><br></a></li>
+<li>Cmder.   <a id="download" href="http://cmder.net/" target="_blank" rel="external"><i class="fa fa-download"></i><span> Download Now</span><br></a></li>
+<li>Node.js   <a id="download" href="https://nodejs.org/zh-cn/" target="_blank" rel="external"><i class="fa fa-download"></i><span> Download Now</span><br></a></li>
+<li>Sublime Text 3.   <a id="download" href=" https://www.sublimetext.com/3" target="_blank" rel="external"><i class="fa fa-download"></i><span> Download Now</span><br></a></li>
+<li>Markdown Pad 2.   <a id="download" href="http://markdownpad.com/" target="_blank" rel="external"><i class="fa fa-download"></i><span> Download Now</span><br></a></li>
+<li>如果某些网站需要翻墙才能进入，请下载GreenVPN，官方网站：<a href="http://www.greenjsq.me" target="_blank" rel="external">http://www.greenjsq.me</a> </li>
+</ol>
+<a id="more"></a>
 <h2 id="B-登陆GitHub网页进行注册和建库"><a href="#B-登陆GitHub网页进行注册和建库" class="headerlink" title="B.登陆GitHub网页进行注册和建库"></a>B.登陆GitHub网页进行注册和建库</h2><pre><code>1. 通过邮箱注册账户名(username)，谨慎填写用户名
 2. 登陆你的账号后，点击头像，选择your profile
 3. 点击Repositories, 然后右上角选择Create a new Repositiories，然后填写自己的博客域名，格式一般为：yourname.github.io (yourname必须和注册用户名一致）
@@ -281,13 +283,14 @@
     
     <summary type="html">
     
-      &lt;h2 id=&quot;A-下载所需语言软件：&quot;&gt;&lt;a href=&quot;#A-下载所需语言软件：&quot; class=&quot;headerlink&quot; title=&quot;A.下载所需语言软件：&quot;&gt;&lt;/a&gt;A.下载所需语言软件：&lt;/h2&gt;&lt;pre&gt;&lt;code&gt;1. Git. https://git-scm.com/
-2. Cmder. http://cmder.net/
-3. Node.js https://nodejs.org/zh-cn/
-4. Sublime Text 3. https://www.sublimetext.com/3
-5. Markdown Pad 2. http://markdownpad.com/
-6. 如果某些网站需要翻墙才能进入，请下载GreenVPN，官方网站：http://www.greenjsq.me 
-&lt;/code&gt;&lt;/pre&gt;
+      &lt;h2 id=&quot;A-下载所需语言软件：&quot;&gt;&lt;a href=&quot;#A-下载所需语言软件：&quot; class=&quot;headerlink&quot; title=&quot;A.下载所需语言软件：&quot;&gt;&lt;/a&gt;A.下载所需语言软件：&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Git.   &lt;a id=&quot;download&quot; href=&quot;https://git-scm.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;span&gt; Download Now&lt;/span&gt;&lt;br&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Cmder.   &lt;a id=&quot;download&quot; href=&quot;http://cmder.net/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;span&gt; Download Now&lt;/span&gt;&lt;br&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Node.js   &lt;a id=&quot;download&quot; href=&quot;https://nodejs.org/zh-cn/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;span&gt; Download Now&lt;/span&gt;&lt;br&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sublime Text 3.   &lt;a id=&quot;download&quot; href=&quot; https://www.sublimetext.com/3&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;span&gt; Download Now&lt;/span&gt;&lt;br&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Markdown Pad 2.   &lt;a id=&quot;download&quot; href=&quot;http://markdownpad.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt;&lt;span&gt; Download Now&lt;/span&gt;&lt;br&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;如果某些网站需要翻墙才能进入，请下载GreenVPN，官方网站：&lt;a href=&quot;http://www.greenjsq.me&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://www.greenjsq.me&lt;/a&gt; &lt;/li&gt;
+&lt;/ol&gt;
     
     </summary>
     
