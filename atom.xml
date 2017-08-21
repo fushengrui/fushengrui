@@ -4,9 +4,9 @@
   <subtitle>浮生如寄 - 但也蛮有乐趣</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://fushengrui.github.io/"/>
   <updated>2017-08-21T21:31:01.147Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://fushengrui.github.io/</id>
   
   <author>
     <name>傅晟瑞</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>旅行随拍 - 新疆</title>
-    <link href="http://yoursite.com/2017/08/21/%E6%96%B0%E7%96%86/"/>
-    <id>http://yoursite.com/2017/08/21/新疆/</id>
+    <link href="http://fushengrui.github.io/2017/08/21/%E6%96%B0%E7%96%86/"/>
+    <id>http://fushengrui.github.io/2017/08/21/新疆/</id>
     <published>2017-08-21T15:14:54.000Z</published>
     <updated>2017-08-21T21:31:01.147Z</updated>
     
@@ -42,17 +42,17 @@
     
     </summary>
     
-      <category term="照片" scheme="http://yoursite.com/categories/%E7%85%A7%E7%89%87/"/>
+      <category term="照片" scheme="http://fushengrui.github.io/categories/%E7%85%A7%E7%89%87/"/>
     
     
-      <category term="暑期旅行" scheme="http://yoursite.com/tags/%E6%9A%91%E6%9C%9F%E6%97%85%E8%A1%8C/"/>
+      <category term="暑期旅行" scheme="http://fushengrui.github.io/tags/%E6%9A%91%E6%9C%9F%E6%97%85%E8%A1%8C/"/>
     
   </entry>
   
   <entry>
     <title>机器学习 - Python Example</title>
-    <link href="http://yoursite.com/2017/07/02/machine-learning/"/>
-    <id>http://yoursite.com/2017/07/02/machine-learning/</id>
+    <link href="http://fushengrui.github.io/2017/07/02/machine-learning/"/>
+    <id>http://fushengrui.github.io/2017/07/02/machine-learning/</id>
     <published>2017-07-02T05:34:22.000Z</published>
     <updated>2017-08-21T21:36:11.451Z</updated>
     
@@ -166,17 +166,17 @@
     
     </summary>
     
-      <category term="CS" scheme="http://yoursite.com/categories/CS/"/>
+      <category term="CS" scheme="http://fushengrui.github.io/categories/CS/"/>
     
     
-      <category term="Python" scheme="http://yoursite.com/tags/Python/"/>
+      <category term="Python" scheme="http://fushengrui.github.io/tags/Python/"/>
     
   </entry>
   
   <entry>
     <title>如何高效搭建自己的博客</title>
-    <link href="http://yoursite.com/2017/06/24/Steps-to-Build-Your-Own-Blog/"/>
-    <id>http://yoursite.com/2017/06/24/Steps-to-Build-Your-Own-Blog/</id>
+    <link href="http://fushengrui.github.io/2017/06/24/Steps-to-Build-Your-Own-Blog/"/>
+    <id>http://fushengrui.github.io/2017/06/24/Steps-to-Build-Your-Own-Blog/</id>
     <published>2017-06-24T14:33:28.000Z</published>
     <updated>2017-07-02T15:55:54.377Z</updated>
     
@@ -291,10 +291,10 @@
     
     </summary>
     
-      <category term="Blog" scheme="http://yoursite.com/categories/Blog/"/>
+      <category term="Blog" scheme="http://fushengrui.github.io/categories/Blog/"/>
     
     
-      <category term="Blog搭建" scheme="http://yoursite.com/tags/Blog%E6%90%AD%E5%BB%BA/"/>
+      <category term="Blog搭建" scheme="http://fushengrui.github.io/tags/Blog%E6%90%AD%E5%BB%BA/"/>
     
   </entry>
   
