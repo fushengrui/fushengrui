@@ -45,23 +45,13 @@
   </entry>
   
   <entry>
-    <title>机器学习</title>
+    <title>机器学习 - Python Example</title>
     <link href="http://yoursite.com/2017/07/02/machine-learning/"/>
     <id>http://yoursite.com/2017/07/02/machine-learning/</id>
     <published>2017-07-02T05:34:22.000Z</published>
-    <updated>2017-08-21T17:24:40.963Z</updated>
+    <updated>2017-08-21T17:26:04.778Z</updated>
     
-    <content type="html"><![CDATA[<p><strong>· Lecture Notes</strong></p>
-
-
-	<div class="row">
-    <embed src="http://ov1pf0a1y.bkt.clouddn.com/15%20%20%20%20%20Machine%20Learning.pdf" width="100%" height="550" type="application/pdf">
-	</div>
-
-
-
-<p><strong>· Python Example</strong></p>
-
+    <content type="html"><![CDATA[
 
 	<div class="row">
     <embed src="http://ov1pf0a1y.bkt.clouddn.com/%28python%20exapmle%29.pdf" width="100%" height="550" type="application/pdf">
@@ -72,11 +62,10 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;strong&gt;· Lecture Notes&lt;/strong&gt;&lt;/p&gt;
-
+      
 
 	&lt;div class=&quot;row&quot;&gt;
-    &lt;embed src=&quot;http://ov1pf0a1y.bkt.clouddn.com/15%20%20%20%20%20Machine%20Lea
+    &lt;embed src=&quot;http://ov1pf0a1y.bkt.clouddn.com/%28python%20exapmle%29.pdf&quot; width=&quot;100%&quot; height=&quot;550&quot; type=&quot;applicatio
     
     </summary>
     
