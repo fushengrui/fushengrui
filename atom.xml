@@ -49,20 +49,30 @@
     <link href="http://yoursite.com/2017/07/02/machine-learning/"/>
     <id>http://yoursite.com/2017/07/02/machine-learning/</id>
     <published>2017-07-02T05:34:22.000Z</published>
-    <updated>2017-07-04T15:24:04.418Z</updated>
+    <updated>2017-08-21T17:18:56.680Z</updated>
     
-    <content type="html"><![CDATA[<iframe src="https://drive.google.com/file/d/0B5Pa6-qFLBYVb3Vid1RWRzgyTzg/preview" width="650" height="400"></iframe>
+    <content type="html"><![CDATA[<h3 id="·-Lecture-Notes"><a href="#·-Lecture-Notes" class="headerlink" title="· Lecture Notes"></a>· Lecture Notes</h3>
 
+	<div class="row">
+    <embed src="http://ov1pf0a1y.bkt.clouddn.com/15%20%20%20%20%20Machine%20Learning.pdf" width="100%" height="550" type="application/pdf">
+	</div>
+
+
+
+<h3 id="·-Python-Example"><a href="#·-Python-Example" class="headerlink" title="· Python Example"></a>· Python Example</h3>
+
+	<div class="row">
+    <embed src="http://ov1pf0a1y.bkt.clouddn.com/%28python%20exapmle%29.pdf" width="100%" height="550" type="application/pdf">
+	</div>
 
 
 ]]></content>
     
     <summary type="html">
     
-      &lt;iframe src=&quot;https://drive.google.com/file/d/0B5Pa6-qFLBYVb3Vid1RWRzgyTzg/preview&quot; width=&quot;650&quot; height=&quot;400&quot;&gt;&lt;/iframe&gt;
+      &lt;h3 id=&quot;·-Lecture-Notes&quot;&gt;&lt;a href=&quot;#·-Lecture-Notes&quot; class=&quot;headerlink&quot; title=&quot;· Lecture Notes&quot;&gt;&lt;/a&gt;· Lecture Notes&lt;/h3&gt;
 
-
-
+	&lt;div class=&quot;row&quot;&gt;
 
     
     </summary>
