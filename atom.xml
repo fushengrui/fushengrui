@@ -178,7 +178,7 @@
     <link href="http://fushengrui.github.io/2017/06/24/Steps-to-Build-Your-Own-Blog/"/>
     <id>http://fushengrui.github.io/2017/06/24/Steps-to-Build-Your-Own-Blog/</id>
     <published>2017-06-24T14:33:28.000Z</published>
-    <updated>2017-08-21T22:28:57.158Z</updated>
+    <updated>2017-08-22T02:38:41.252Z</updated>
     
     <content type="html"><![CDATA[<h2 id="A-下载所需语言软件："><a href="#A-下载所需语言软件：" class="headerlink" title="A.下载所需语言软件："></a>A.下载所需语言软件：</h2><ol>
 <li>Git.   <a id="download" href="https://git-scm.com/" target="_blank" rel="external"><i class="fa fa-download"></i><span> Download Now</span><br></a></li>
@@ -276,7 +276,7 @@
 
    5. 在theme栏后编辑你刚下载的“主题的名字”即“下载的文件夹名”，然后保存，记得冒号后加空格；
 
-6. 执行步骤F(跳过过程1直接从2开始)，更新博客即可。
+6. 执行步骤F(跳过过程1直接从过程2的“hexo clean”开始)，更新博客即可。
 </code></pre><p><div id="hypercomments_widget"></div></p>
 <p><script type="text/javascript"><br>_hcwp = window._hcwp || [];<br>_hcwp.push({widget:”Stream”, widget_id: 92589});<br>(function() {<br>if(“HC_LOAD_INIT” in window)return;<br>HC_LOAD_INIT = true;<br>var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage || “en”).substr(0, 2).toLowerCase();<br>var hcc = document.createElement(“script”); hcc.type = “text/javascript”; hcc.async = true;<br>hcc.src = (“https:” == document.location.protocol ? “https” : “http”)+”://w.hypercomments.com/widget/hc/92589/“+lang+”/widget.js”;<br>var s = document.getElementsByTagName(“script”)[0];<br>s.parentNode.insertBefore(hcc, s.nextSibling);<br>})();<br></script><br><a href="http://hypercomments.com" class="hc-link" title="comments widget" target="_blank" rel="external">comments powered by HyperComments</a></p>
 ]]></content>
