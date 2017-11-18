@@ -953,10 +953,7 @@ pre .javascript .function {
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .back-to-top {
-    right: 20px;
-    -moz-opacity: 0.8;
-    -khtml-opacity: 0.8;
-    opacity: 0.8;
+    display: none;
   }
 }
 .back-to-top.back-to-top-on {
@@ -1579,11 +1576,7 @@ pre .javascript .function {
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .sidebar-toggle {
-    right: 20px;
-    bottom: 45px;
-    -moz-opacity: 0.8;
-    -khtml-opacity: 0.8;
-    opacity: 0.8;
+    display: none;
   }
 }
 @media (max-width: 767px) {
@@ -1695,7 +1688,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #f430f7;
+  background: #ffc367;
 }
 .links-of-blogroll {
   font-size: 13px;
