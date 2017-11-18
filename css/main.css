@@ -1550,7 +1550,7 @@ pre .javascript .function {
 }
 @media (max-width: 767px) {
   .sidebar {
-    display: yes !important;
+    display: none !important;
   }
 }
 .sidebar-inner {
@@ -1579,7 +1579,7 @@ pre .javascript .function {
 }
 @media (max-width: 767px) {
   .sidebar-toggle {
-    display: yes;
+    display: none;
   }
 }
 .sidebar-toggle-line {
@@ -1682,7 +1682,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #a7bdfb;
+  background: #ff24ba;
 }
 .links-of-blogroll {
   font-size: 13px;
