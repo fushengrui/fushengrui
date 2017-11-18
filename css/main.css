@@ -943,14 +943,6 @@ pre .javascript .function {
   transition-timing-function: ease-in-out;
   transition-delay: 0s;
 }
-@media (max-width: 767px) {
-  .back-to-top {
-    right: 20px;
-    -moz-opacity: 0.8;
-    -khtml-opacity: 0.8;
-    opacity: 0.8;
-  }
-}
 @media (min-width: 768px) and (max-width: 991px) {
   .back-to-top {
     display: none;
@@ -1583,15 +1575,6 @@ pre .javascript .function {
     display: none;
   }
 }
-@media (max-width: 767px) {
-  .sidebar-toggle {
-    right: 15px;
-    bottom: 45px;
-    -moz-opacity: 0.8;
-    -khtml-opacity: 0.8;
-    opacity: 0.8;
-  }
-}
 .sidebar-toggle-line {
   position: relative;
   display: inline-block;
@@ -1692,7 +1675,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ccff28;
+  background: #de6036;
 }
 .links-of-blogroll {
   font-size: 13px;
