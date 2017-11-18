@@ -945,7 +945,7 @@ pre .javascript .function {
 }
 @media (max-width: 767px) {
   .back-to-top {
-    right: 15px;
+    right: 20px;
     -moz-opacity: 0.8;
     -khtml-opacity: 0.8;
     opacity: 0.8;
@@ -953,7 +953,7 @@ pre .javascript .function {
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .back-to-top {
-    right: 15px;
+    right: 20px;
     -moz-opacity: 0.8;
     -khtml-opacity: 0.8;
     opacity: 0.8;
@@ -1579,7 +1579,7 @@ pre .javascript .function {
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .sidebar-toggle {
-    right: 15px;
+    right: 20px;
     bottom: 45px;
     -moz-opacity: 0.8;
     -khtml-opacity: 0.8;
@@ -1695,7 +1695,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffff81;
+  background: #3c46ff;
 }
 .links-of-blogroll {
   font-size: 13px;
