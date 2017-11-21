@@ -28,9 +28,9 @@
     </entry>
     
     <entry>
-      <title><![CDATA[旅行随拍 - 新疆]]></title>
+      <title><![CDATA[<blockquote class="blockquote-center">&emsp;&emsp;&emsp;旅行随拍 - 新疆&emsp;&emsp;&emsp;</blockquote>]]></title>
       <url>/2017/08/21/%E6%96%B0%E7%96%86/</url>
-      <content type="html"><![CDATA[<h2 id="·-旅行线路"><a href="#·-旅行线路" class="headerlink" title="· 旅行线路"></a>· 旅行线路</h2><p> Day 1 - 从兰州搭乘高铁前往乌鲁木齐<br> Day 2 - 出发前往清河县，并途经赛里木湖<br> Day 3 - 出发前往霍尔果斯经济特区<br> Day 4 - 游览那拉提草原<br> Day 5 - 15小时车程赶往吐鲁番市<br> Day 6 - 参观葡萄沟和火焰山<br> Day 7 - 返回乌鲁木齐，并途经巴音布鲁克草原</p>
+      <content type="html"><![CDATA[<p></p><p id="div-border-left-blue">旅行线路</p><br> Day 1 - 从兰州搭乘高铁前往乌鲁木齐<br> Day 2 - 出发前往清河县，并途经赛里木湖<br> Day 3 - 出发前往霍尔果斯经济特区<br> Day 4 - 游览那拉提草原<br> Day 5 - 15小时车程赶往吐鲁番市<br> Day 6 - 参观葡萄沟和火焰山<br> Day 7 - 返回乌鲁木齐，并途经巴音布鲁克草原<p></p>
 <a id="more"></a>
 <h2 id="·-风景篇"><a href="#·-风景篇" class="headerlink" title="· 风景篇"></a>· 风景篇</h2><h4 id="巴音布鲁克草原"><a href="#巴音布鲁克草原" class="headerlink" title="巴音布鲁克草原"></a><blockquote class="blockquote-center">巴音布鲁克草原</blockquote></h4><p><img src="http://i.imgur.com/XYfbkW4.jpg" alt=""></p>
 <p><img src="http://i.imgur.com/eCv0XG8.jpg" alt=""></p>
@@ -61,21 +61,22 @@
     </entry>
     
     <entry>
-      <title><![CDATA[如何高效搭建自己的博客]]></title>
+      <title><![CDATA[<blockquote class="blockquote-center">如何高效搭建自己的博客</blockquote>]]></title>
       <url>/2017/06/24/Steps-to-Build-Your-Own-Blog/</url>
-      <content type="html"><![CDATA[<h2 id="A-下载所需语言软件："><a href="#A-下载所需语言软件：" class="headerlink" title="A.下载所需语言软件："></a>A.下载所需语言软件：</h2><ol>
-<li>Git.   <a id="download" href="https://git-scm.com/" target="_blank" rel="external"><i class="fa fa-download"></i><span> Download Now</span><br></a></li>
-<li>Cmder.   <a id="download" href="http://cmder.net/" target="_blank" rel="external"><i class="fa fa-download"></i><span> Download Now</span><br></a></li>
-<li>Node.js.   <a id="download" href="https://nodejs.org/zh-cn/" target="_blank" rel="external"><i class="fa fa-download"></i><span> Download Now</span><br></a></li>
-<li>Sublime Text 3.   <a id="download" href=" https://www.sublimetext.com/3" target="_blank" rel="external"><i class="fa fa-download"></i><span> Download Now</span><br></a></li>
-<li>Markdown Pad 2.   <a id="download" href="http://markdownpad.com/" target="_blank" rel="external"><i class="fa fa-download"></i><span> Download Now</span><br></a></li>
+      <content type="html"><![CDATA[<p id="div-border-left-red">A.下载所需语言软件</p>
+
+
+<ol>
+<li>Git.     <a id="download" href="https://git-scm.com/" target="_blank" rel="external"><i class="fa fa-download"></i><span> Download Now</span><br></a></li>
+<li>Cmder.     <a id="download" href="http://cmder.net/" target="_blank" rel="external"><i class="fa fa-download"></i><span> Download Now</span><br></a></li>
+<li>Node.js.     <a id="download" href="https://nodejs.org/zh-cn/" target="_blank" rel="external"><i class="fa fa-download"></i><span> Download Now</span><br></a></li>
+<li>Sublime Text 3.     <a id="download" href=" https://www.sublimetext.com/3" target="_blank" rel="external"><i class="fa fa-download"></i><span> Download Now</span><br></a></li>
+<li>Markdown Pad 2.     <a id="download" href="http://markdownpad.com/" target="_blank" rel="external"><i class="fa fa-download"></i><span> Download Now</span><br></a></li>
 </ol>
 <a id="more"></a>
-<h2 id="B-登陆GitHub网页进行注册和建库"><a href="#B-登陆GitHub网页进行注册和建库" class="headerlink" title="B.登陆GitHub网页进行注册和建库"></a>B.登陆GitHub网页进行注册和建库</h2><pre><code>1. 通过邮箱注册账户名(username)，谨慎填写用户名
-2. 登陆你的账号后，点击头像，选择your profile
-3. 点击Repositories, 然后右上角选择Create a new Repositiories，然后填写自己的博客域名，格式一般为：yourname.github.io (yourname必须和注册用户名一致）
-4. 注册和建库结束
-</code></pre><h2 id="C-建立Blog所需环境-注意程序命令之间的x空格）"><a href="#C-建立Blog所需环境-注意程序命令之间的x空格）" class="headerlink" title="C. 建立Blog所需环境(注意程序命令之间的x空格）"></a>C. 建立Blog所需环境(注意程序命令之间的x空格）</h2><pre><code>1. 通过菜单栏找到Git Bash并打开，然后输入以下指令：
+<p id="div-border-left-red"> B.登陆GitHub网页进行注册和建库</p><br>    1. 通过邮箱注册账户名(username)，谨慎填写用户名<br>    2. 登陆你的账号后，点击头像，选择your profile<br>    3. 点击Repositories, 然后右上角选择Create a new Repositiories，然后填写自己的博客域名，格式一般为：yourname.github.io (yourname必须和注册用户名一致）<br>    4. 注册和建库结束<br><br><br><p id="div-border-left-red"> C. 建立Blog所需环境(注意程序命令之间的x空格）</p>
+
+<pre><code>1. 通过菜单栏找到Git Bash并打开，然后输入以下指令：
 
        git config --global user.name &quot;过程B注册的Github用户名&quot;
        git config --global user.email &quot;注册使用的邮箱地址&quot;
@@ -100,7 +101,9 @@
 
 
 4. 当hexo server -p 4008运行成功，命令框会提示进入“localhost: 4008&quot;进行网页博客预览。如果失败，重新输入该指令并替换“4008”为其他任意四位数字
-</code></pre><h2 id="D-建立SSH密匙"><a href="#D-建立SSH密匙" class="headerlink" title="D. 建立SSH密匙"></a>D. 建立SSH密匙</h2><pre><code>1. 打开Git Bash输入以下指令：
+</code></pre><p id="div-border-left-red">  D. 建立SSH密匙</p>
+
+<pre><code>1. 打开Git Bash输入以下指令：
 
      ssh-key gen -t rsa -C &quot;GitHub注册使用的邮箱”
 
@@ -109,7 +112,9 @@
 4. 用Sumblime Text打开该文件，并复制文件中的内容；
 5. 打开“github.com/settings/keys&quot;网站，登陆你的GitHub账号，选择增加新的SSH Key；
 6. 然后粘贴已复制的内容，并提交。
-</code></pre><h2 id="E-配置博客"><a href="#E-配置博客" class="headerlink" title="E.配置博客"></a>E.配置博客</h2><pre><code>1. 在你文件夹“blog所需环境”中找到另一个名为“blog”的文件夹；
+</code></pre><p id="div-border-left-red"> E.配置博客 </p>
+
+<pre><code>1. 在你文件夹“blog所需环境”中找到另一个名为“blog”的文件夹；
 2. 进入blog文件夹找到名为“_config.yml&quot;的文件；
 3. 用Sublime 打开该文件夹找到如下内容并编辑：
 
@@ -133,7 +138,9 @@
 
 
 5. 保存，退出
-</code></pre><h2 id="F-正式域名生产和后续更新博客内容所需步骤"><a href="#F-正式域名生产和后续更新博客内容所需步骤" class="headerlink" title="F.正式域名生产和后续更新博客内容所需步骤"></a>F.正式域名生产和后续更新博客内容所需步骤</h2><pre><code>1. 打开 Git CMD
+</code></pre><p id="div-border-left-red"> F.正式域名生产和后续更新博客内容所需步骤 </p>
+
+<pre><code>1. 打开 Git CMD
 2. 按顺序输入以下指令：
 
        npm install hexo-deployer-git --save
@@ -148,7 +155,9 @@
        hexo d 
 
 5. 这个时候会弹出一个窗口登陆你的GitHub账户和用户名，域名生成。以后就可以直接在网页输入“xxx.github.io”登陆你的博客啦
-</code></pre><h2 id="G-如何调整博客背景页面的主题？"><a href="#G-如何调整博客背景页面的主题？" class="headerlink" title="G.如何调整博客背景页面的主题？"></a>G.如何调整博客背景页面的主题？</h2><pre><code>1. 打开网页&quot;http://hexo.io/themes/”并点击选择你喜欢的背景主题
+</code></pre><p id="div-border-left-red"> 调整博客背景页面的主题？</p>
+
+<pre><code>1. 打开网页&quot;http://hexo.io/themes/”并点击选择你喜欢的背景主题
 
 2. 点击后会弹出另一个网页窗口，然后点击绿色按钮“clone or download&quot;，然后点击“download ZIP”
 
