@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://fushengrui.github.io/"/>
-  <updated>2017-11-21T08:52:09.419Z</updated>
+  <updated>2017-11-21T08:54:30.740Z</updated>
   <id>http://fushengrui.github.io/</id>
   
   <author>
@@ -20,17 +20,18 @@
     <link href="http://fushengrui.github.io/2017/10/10/Video%20Test/"/>
     <id>http://fushengrui.github.io/2017/10/10/Video Test/</id>
     <published>2017-10-10T14:04:37.000Z</published>
-    <updated>2017-11-21T08:52:09.419Z</updated>
+    <updated>2017-11-21T08:54:30.740Z</updated>
     
     <content type="html"><![CDATA[<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/brene_brown_on_vulnerability" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
 
+<a id="more"></a>
 <hr>
 ]]></content>
     
     <summary type="html">
     
-      &lt;div style=&quot;max-width:854px&quot;&gt;&lt;div style=&quot;position:relative;height:0;padding-bottom:56.25%&quot;&gt;&lt;iframe src=&quot;https://embed.ted.com/talks/brene_br
+      &lt;div style=&quot;max-width:854px&quot;&gt;&lt;div style=&quot;position:relative;height:0;padding-bottom:56.25%&quot;&gt;&lt;iframe src=&quot;https://embed.ted.com/talks/brene_brown_on_vulnerability&quot; width=&quot;854&quot; height=&quot;480&quot; style=&quot;position:absolute;left:0;top:0;width:100%;height:100%&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
     
     </summary>
     
@@ -81,7 +82,7 @@
     <link href="http://fushengrui.github.io/2017/06/24/Steps-to-Build-Your-Own-Blog/"/>
     <id>http://fushengrui.github.io/2017/06/24/Steps-to-Build-Your-Own-Blog/</id>
     <published>2017-06-24T14:33:28.000Z</published>
-    <updated>2017-11-21T08:51:03.654Z</updated>
+    <updated>2017-11-21T08:54:44.946Z</updated>
     
     <content type="html"><![CDATA[<h2 id="A-下载所需语言软件："><a href="#A-下载所需语言软件：" class="headerlink" title="A.下载所需语言软件："></a>A.下载所需语言软件：</h2><ol>
 <li>Git.   <a id="download" href="https://git-scm.com/" target="_blank" rel="external"><i class="fa fa-download"></i><span> Download Now</span><br></a></li>
