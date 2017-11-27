@@ -1694,7 +1694,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffd285;
+  background: #ff45f0;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2251,13 +2251,13 @@ pre .javascript .function {
   cursor: pointer;
   background-color: #555;
   color: #fff;
-  font-size: 24px;
-  line-height: 40px;
-  width: 40px;
-  height: 40px;
-  margin: 10px;
-  border-radius: 25px;
-  float: left;
+  font-size: 36px; /*默认24*/
+  line-height: 42px; /*默认40*/
+  width: 42px; /*默认40*/
+  height: 42px; /*默认40*/
+  margin: 10px; /*默认10*/
+  border-radius: 25px; /*默认25*/
+  float: left; /*left*/
   transition: background 0.4s;
   -moz-transition: background 0.4s; /* Firefox 4 */
   -webkit-transition: background 0.4s; /* Safari 和 Chrome */
@@ -2280,14 +2280,14 @@ pre .javascript .function {
 }
 .-mob-share-weixin-qrcode-content {
   border-radius: 4px;
-  -webkit-box-shadow: 0 10px 25px rgba(0,0,0,0.5);
-  -moz-box-shadow: 0 10px 25px rgba(0,0,0,0.5);
-  -o-box-shadow: 0 10px 25px rgba(0,0,0,0.5);
-  box-shadow: 0 10px 25px rgba(0,0,0,0.5);
+  -webkit-box-shadow: 0 10px 15px rgba(0,0,0,0.5); /*默认0 10 25*/
+  -moz-box-shadow: 0 10px 5px rgba(0,0,0,0.5); /*默认0 10 25*/
+  -o-box-shadow: 0 10px 5px rgba(0,0,0,0.5);
+  box-shadow: 0 10px 5px rgba(0,0,0,0.5);
 }
 .-mob-share-weixin-qrcode {
   margin: 5% !important;
-  width: 90% !important;
+  width: 90% !important; /*默认5%和90%*/
   height: auto !important;
 }
 .-mob-share-weixin-qrcode-close {
