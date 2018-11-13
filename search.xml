@@ -64,15 +64,15 @@
       <title><![CDATA[如何高效搭建自己的博客]]></title>
       <url>/2017/06/24/Steps-to-Build-Your-Own-Blog/</url>
       <content type="html"><![CDATA[<h4 id="A-下载所需语言软件"><a href="#A-下载所需语言软件" class="headerlink" title="A.下载所需语言软件"></a>A.下载所需语言软件</h4><ol>
-<li><p>Git.     <a id="download" href="https://git-scm.com/" target="_blank" rel="external"><i class="fa fa-download"></i><span> Download Now</span><br></a></p>
+<li><p>Git.     <a id="download" href="https://git-scm.com/" target="_blank" rel="noopener"><i class="fa fa-download"></i><span> Download Now</span><br></a></p>
 </li>
-<li><p>Cmder.     <a id="download" href="http://cmder.net/" target="_blank" rel="external"><i class="fa fa-download"></i><span> Download Now</span><br></a></p>
+<li><p>Cmder.     <a id="download" href="http://cmder.net/" target="_blank" rel="noopener"><i class="fa fa-download"></i><span> Download Now</span><br></a></p>
 </li>
-<li><p>Node.js.     <a id="download" href="https://nodejs.org/zh-cn/" target="_blank" rel="external"><i class="fa fa-download"></i><span> Download Now</span><br></a></p>
+<li><p>Node.js.     <a id="download" href="https://nodejs.org/zh-cn/" target="_blank" rel="noopener"><i class="fa fa-download"></i><span> Download Now</span><br></a></p>
 </li>
-<li><p>Sublime Text 3.     <a id="download" href=" https://www.sublimetext.com/3" target="_blank" rel="external"><i class="fa fa-download"></i><span> Download Now</span><br></a></p>
+<li><p>Sublime Text 3.     <a id="download" href=" https://www.sublimetext.com/3" target="_blank" rel="noopener"><i class="fa fa-download"></i><span> Download Now</span><br></a></p>
 </li>
-<li><p>Markdown.     <a id="download" href="http://markdownpad.com/" target="_blank" rel="external"><i class="fa fa-download"></i><span> Download Now</span><br></a></p>
+<li><p>Markdown.     <a id="download" href="http://markdownpad.com/" target="_blank" rel="noopener"><i class="fa fa-download"></i><span> Download Now</span><br></a></p>
 </li>
 </ol>
 <a id="more"></a>
@@ -166,7 +166,7 @@
 6. 执行步骤F(跳过过程1直接从过程2的“hexo clean”开始)，更新博客即可。
 </code></pre><hr>
 <p><div id="hypercomments_widget"></div></p>
-<p><script type="text/javascript"><br>_hcwp = window._hcwp || [];<br>_hcwp.push({widget:”Stream”, widget_id: 92589});<br>(function() {<br>if(“HC_LOAD_INIT” in window)return;<br>HC_LOAD_INIT = true;<br>var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage || “en”).substr(0, 2).toLowerCase();<br>var hcc = document.createElement(“script”); hcc.type = “text/javascript”; hcc.async = true;<br>hcc.src = (“https:” == document.location.protocol ? “https” : “http”)+”://w.hypercomments.com/widget/hc/92589/“+lang+”/widget.js”;<br>var s = document.getElementsByTagName(“script”)[0];<br>s.parentNode.insertBefore(hcc, s.nextSibling);<br>})();<br></script><br><a href="http://hypercomments.com" class="hc-link" title="comments widget" target="_blank" rel="external">comments powered by HyperComments</a></p>
+<p><script type="text/javascript"><br>_hcwp = window._hcwp || [];<br>_hcwp.push({widget:”Stream”, widget_id: 92589});<br>(function() {<br>if(“HC_LOAD_INIT” in window)return;<br>HC_LOAD_INIT = true;<br>var lang = (navigator.language || navigator.systemLanguage || navigator.userLanguage || “en”).substr(0, 2).toLowerCase();<br>var hcc = document.createElement(“script”); hcc.type = “text/javascript”; hcc.async = true;<br>hcc.src = (“https:” == document.location.protocol ? “https” : “http”)+”://w.hypercomments.com/widget/hc/92589/“+lang+”/widget.js”;<br>var s = document.getElementsByTagName(“script”)[0];<br>s.parentNode.insertBefore(hcc, s.nextSibling);<br>})();<br></script><br><a href="http://hypercomments.com" class="hc-link" title="comments widget" target="_blank" rel="noopener">comments powered by HyperComments</a></p>
 ]]></content>
       
         <categories>
